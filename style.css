@@ -1,0 +1,80 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    color: #0077cc;
+}
+
+button {
+    background-color: #0077cc;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #005fa3;
+}
+
+#mensagem {
+    margin-top: 20px;
+    font-weight: bold;
+    color: green;
+}
+footer {
+    margin-top: 40px;
+    font-size: 14px;
+    color: #666;
+    text-align: center;
+}
+/* Estilo do corpo da página */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Estilo do título */
+h1 {
+    color: #0077cc;
+}
+
+/* Estilo do botão */
+button {
+    background-color: #0077cc;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+/* Estilo do botão ao passar o mouse */
+button:hover {
+    background-color: #005fa3;
+}
+
+/* Estilo da mensagem exibida após clicar */
+#mensagem {
+    margin-top: 20px;
+    font-weight: bold;
+    color: green;
+}
+
+/* Estilo do rodapé */
+footer {
+    margin-top: 30px;
+    font-size: 14px;
+    color: #555;
+}
